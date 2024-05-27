@@ -25,7 +25,7 @@ function Employee() {
                 employeeaddress: employeeAddress,
                 mobile: mobile
             });
-            alert("Employee Registration Successful");
+            alert("Employee registration Successful");
             setId("");
             setName("");
             setAddress("");
